@@ -1,0 +1,16 @@
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+.vscode/
+.idea/
+
+# build output
+*.o
+*.out
+*.exe
+approx
+static_sched
+result/
+plot/
